@@ -1,0 +1,23 @@
+body{
+    background-image: url("bg.jpg"); 
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: rgb(0, 4, 255);
+    font-size: 30px;
+}
+
+.main_header{
+    font-size: 50px;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    right: 730px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px yellow;
+} 
